@@ -164,4 +164,4 @@ The command `minikube service my-api` exposes the service named `my-api or whate
 
 **now your api is running in a deployment** 
 
-
+Written by Mohammed Abaalkhail
